@@ -28,7 +28,7 @@ Looking for Software Developer/Engineer and Full-Stack Developer Roles as a fres
 
 </p>
 <p align="center"><a href="https://harshakeerthan.com/portfolio" target="_blank">
-Portfolio <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/c0f460dca7f7688761120415ff3c9cf7f73119be/svgs/solid/link.svg" width="15" height="15">
+Portfolio
 </a></p>
 
 <details align="center">
